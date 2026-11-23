@@ -13,5 +13,8 @@ bằng servo, giám sát qua Google Sheets và cảnh báo qua Telegram.
 - `measurements/` số liệu đo đạc (độ trễ, sai số, độ ổn định)
 - `docs/`         báo cáo, slide, video demo, giao diện giữa các module
 
+Quy ước tên module, file, hàm, biến và hằng số chung được chốt tại
+[`docs/module_interfaces.md`](docs/module_interfaces.md).
+
 ## Phân công
 TV1 tích hợp | TV2 AI | TV3 cơ khí, servo | TV4 IoT, đo đạc | TV5 điện tử, test, tài liệu
